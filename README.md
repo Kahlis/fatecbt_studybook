@@ -26,6 +26,7 @@ O repositório é organizado com a seguinte estrutura de pastas:
 
 ### Regras de Contribuição
 
+- Toda anotação de aula deve começar com o mesmo nome da pasta em que está `e.g # Aula 01`
 - Use sempre o arquivo de anotações nesse formato `anotações_@[seu_usuário]`, caso não seguir a convenção pode ser corrigido automaticamente por um administrador do repositório ou ter sua PR recusada.
 - Seja sensato, não inclua quaisquer informações pessoais, um algo inadequado ao ambiente acadêmico em seus PR.
 - Não modifique a estrutura de pastas do repositório, vamos manter tudo organizado.
